@@ -18,7 +18,19 @@ Download dataset:
 
 Link to appear here.
 
-Key hyperparameters for using ImageSig with image array:
+Extracting data from video streams:
+```python
+Code to be available soon.
+```
+
+
+T-test analysis and regression models:
+```python
+Code to be available soon.
+```
+
+
+Granger Causality:
 ```python
 Code to be available soon.
 ```
